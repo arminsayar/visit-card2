@@ -19,8 +19,8 @@ body {
   background-color: hsl(31, 77%, 52%);
   width: 300px;
   height: 450px;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
 }
 #cyan-div {
   position: relative;
@@ -33,8 +33,8 @@ body {
   background-color: hsl(179, 100%, 13%);
   width: 300px;
   height: 450px;
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
 #orange__img-svg {
   position: absolute;
@@ -56,7 +56,9 @@ body {
   position: absolute;
   top: 40%;
   left: 15%;
+  right: 15%;
   font-size: 15px;
+  line-height: 22px;
   color: hsla(0, 0%, 100%, 0.75);
   font-family: "Lexend Deca", sans-serif;
 }
@@ -68,7 +70,7 @@ body {
   color: hsl(31, 77%, 52%);
   border: solid hsl(0, 0%, 95%);
   width: 140px;
-  height: 40px;
+  height: 45px;
   border-radius: 20px;
   font-family: "Lexend Deca", sans-serif;
 }
@@ -115,7 +117,9 @@ body {
   position: absolute;
   top: 40%;
   left: 15%;
+  right: 15%;
   font-size: 15px;
+  line-height: 22px;
   color: hsla(0, 0%, 100%, 0.75);
   font-family: "Lexend Deca", sans-serif;
 }
@@ -123,7 +127,9 @@ body {
   position: absolute;
   top: 40%;
   left: 15%;
+  right: 15%;
   font-size: 15px;
+  line-height: 22px;
   color: hsla(0, 0%, 100%, 0.75);
   font-family: "Lexend Deca", sans-serif;
 }
@@ -135,16 +141,16 @@ body {
   color: hsl(184, 100%, 22%);
   border: solid hsl(0, 0%, 95%);
   width: 140px;
-  height: 40px;
+  height: 45px;
   border-radius: 20px;
   font-family: "Lexend Deca", sans-serif;
 }
 #cyan__text-button:hover {
-    border: 2px solid hsl(0, 0%, 95%);
-    background-color: hsl(184, 100%, 22%);
-    color: hsl(0, 0%, 95%);
-    width: 140px;
-    cursor: pointer;   
+  border: 2px solid hsl(0, 0%, 95%);
+  background-color: hsl(184, 100%, 22%);
+  color: hsl(0, 0%, 95%);
+  width: 140px;
+  cursor: pointer;
 }
 #cyan2__text-button {
   position: absolute;
@@ -154,14 +160,14 @@ body {
   color: hsl(179, 100%, 13%);
   border: solid hsl(0, 0%, 95%);
   width: 140px;
-  height: 40px;
+  height: 45px;
   border-radius: 20px;
   font-family: "Lexend Deca", sans-serif;
 }
 #cyan2__text-button:hover {
-    border: 2px solid hsl(0, 0%, 95%);
-    background-color: hsl(179, 100%, 13%);
-    color: hsl(0, 0%, 95%);
-    width: 140px;
-    cursor: pointer;  
+  border: 2px solid hsl(0, 0%, 95%);
+  background-color: hsl(179, 100%, 13%);
+  color: hsl(0, 0%, 95%);
+  width: 140px;
+  cursor: pointer;
 }

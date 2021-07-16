@@ -71,7 +71,7 @@ body {
   border: solid hsl(0, 0%, 95%);
   width: 140px;
   height: 45px;
-  border-radius: 20px;
+  border-radius: 30px;
   font-family: "Lexend Deca", sans-serif;
 }
 #orange__text-button:hover {
@@ -142,7 +142,7 @@ body {
   border: solid hsl(0, 0%, 95%);
   width: 140px;
   height: 45px;
-  border-radius: 20px;
+  border-radius: 30px;
   font-family: "Lexend Deca", sans-serif;
 }
 #cyan__text-button:hover {
@@ -161,7 +161,7 @@ body {
   border: solid hsl(0, 0%, 95%);
   width: 140px;
   height: 45px;
-  border-radius: 20px;
+  border-radius: 30px;
   font-family: "Lexend Deca", sans-serif;
 }
 #cyan2__text-button:hover {
